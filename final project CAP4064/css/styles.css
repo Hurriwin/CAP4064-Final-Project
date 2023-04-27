@@ -158,8 +158,6 @@ footer p a{
     display: block;
 }
 
-/*   new addition lecture Feb 20th 2023*/
-
 
 .tel-link{
     background-color: #404040;
@@ -274,7 +272,6 @@ form #submit{
 	font-size:1em;
 	border-radius: 10px;
 }
-/* New feature added Feb 28*/
 
 /* Media Queries for Tablet Viewport*/    
 
@@ -461,7 +458,6 @@ form{
         text-align: left;
     } 
 
-/*added after talk about print*/
     nav li a:hover{
         color: #000;
         background-color: #fff;
